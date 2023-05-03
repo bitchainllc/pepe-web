@@ -1,0 +1,37 @@
+{
+  "features": [
+    { "icon": "fas fa-tag", "title": "     pepe Wallet " },
+    { "icon": "fas fa-sync", "title": "    pepe Wallet " },
+    { "icon": "fas fa-text-width", "title": "    pepe Wallet " }
+  ],
+  "accordions": [
+    {
+      "id": 1,
+      "title": "Easy to use",
+      "content": "PepeDEX provides a comfortable service to ecosystem users with its user-friendly UI."
+    },
+    {
+      "id": 2,
+      "title": "Fastest",
+      "content": "PepeDEX communicates with PancakeSwap via smart contracts and executes transactions at the highest possible speed."
+    },
+    {
+      "id": 3,
+      "title": "Secure",
+      "content": "PepeDEX performs transactions in a decentralized and autonomous manner without having any control panel. Security vulnerabilities due to PepeDEX are impossible."
+    }
+  ],
+  "thirdFeatures": [
+    { "active": false, "title": "MultiChain" },
+    { "active": true, "title": "No need to connect your wallet" },
+    { "active": false, "title": "Fund Analyzes " },
+    { "active": false, "title": "Transaction History" }
+  ],
+  "integrations": [
+    "assets/img/about/intg1.png",
+    "assets/img/about/intg5.png",
+    "assets/img/about/intg4.png",
+    "assets/img/about/intg3.png",
+    "assets/img/about/intg2.png"
+  ]
+}

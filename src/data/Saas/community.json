@@ -1,0 +1,23 @@
+[
+  {
+    "img": "assets/img/pepe-chain-icon.png",
+    "title": "PepeDEX",
+    "id": "#pepe-swap"
+  },
+  {
+    "img": "assets/img/pepe-chain-icon.png",
+    "title": "Pepe Wallet",
+    "id": "#pepe-wallet"
+  },
+  {
+    "img": "assets/img/pepe-chain-icon.png",
+    "title": "Pepe Staking",
+    "id": "#pepe-wallet"
+  },
+
+  {
+    "img": "assets/img/pepe-chain-icon.png",
+    "title": "Portfolio Tracker",
+    "id": "#portfolio-tracker"
+  }
+]

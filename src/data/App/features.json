@@ -1,0 +1,31 @@
+[
+  {
+    "image": "assets/img/sarabiscan.gif",
+    "title": {
+      "text1": "SarabiScan"
+    },
+    "id": "#pepe-scan"
+  },
+  {
+    "image": "assets/img/icons/staking-640.png",
+    "title": {
+      "text1": "Sarabi Staking"
+    },
+    "id": "#home"
+  },
+  {
+    "image": "assets/img/icons/fe2.png",
+    "title": {
+      "text1": "Sarabi DApps"
+    },
+    "id": "#sarabi-dapps"
+  },
+  {
+    "image": "assets/img/icons/nft-gif.gif",
+    "title": {
+      "text1": "Sarabi NFT's"
+    },
+    "id": "#nft-marketplace",
+    "new": true
+  }
+]

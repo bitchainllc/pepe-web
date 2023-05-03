@@ -1,0 +1,15 @@
+[
+  {
+    "icon": "fab fa-twitter",
+    "title": "Twitter"
+  },
+
+  {
+    "icon": "fab fa-telegram",
+    "title": "Telegram"
+  },
+  {
+    "icon": "fab fa-discord",
+    "title": "Discord"
+  }
+]
