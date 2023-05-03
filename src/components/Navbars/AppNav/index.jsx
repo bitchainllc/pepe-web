@@ -99,7 +99,7 @@ const Navbar = ({ navbarRef }) => {
                   <i className="fab  me-2 pe-2 border-end">
                     <AiOutlineSwap />
                   </i>
-                  Buy $PC Token
+                  Buy $PCHAIN Token
                 </small>
               </a>
             </div>

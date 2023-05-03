@@ -12,9 +12,9 @@ const SecondContent = ({ accordions, rtl }) => {
                 </h2>
               </div>
               <p className="text mb-40">
-                PepeSwap v1 is a decentralized exchange that trades on
+                PepeDEX v1 is a decentralized exchange that trades on
                 Pancakeswap liquidities. It can make swaps and create liquidity
-                pools through PancakeSwap. PepeSwap v2 will be used (in the
+                pools through PancakeSwap. PepeDEX v2 will be used (in the
                 future) to host the liquidity pools of projects that the
                 PepeChain team sees as high potential.
               </p>
@@ -63,7 +63,7 @@ const SecondContent = ({ accordions, rtl }) => {
               >
                 <div className="inf color-gray">
                   <h6>
-                    <bigger>PepeSwap</bigger>
+                    <bigger>PepeDEX</bigger>
                   </h6>
                 </div>
               </a>
